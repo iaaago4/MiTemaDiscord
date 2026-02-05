@@ -1,0 +1,31 @@
+:root {
+  --background-primary: #0f172a;
+  --background-secondary: #020617;
+  --background-tertiary: #020617;
+
+  --text-normal: #e5e7eb;
+  --text-muted: #94a3b8;
+
+  --accent-color: #38bdf8;
+  --brand-experiment: var(--accent-color);
+}
+
+/* Fondo general */
+.theme-dark {
+  background-color: var(--background-primary);
+}
+
+/* Canales */
+.containerDefault-3TQ5YN {
+  background-color: var(--background-secondary);
+}
+
+/* Mensajes */
+.message-2CShn3 {
+  color: var(--text-normal);
+}
+
+/* Links */
+a {
+  color: var(--accent-color);
+}
