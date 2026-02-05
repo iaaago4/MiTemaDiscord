@@ -1,1 +1,10 @@
+/**
+ * @name MiTemaDiscord
+ * @author TuNombre
+ * @description Tema personalizado para BetterDiscord importado desde GitHub
+ * @version 1.0.0
+ * @source https://github.com/TU_USUARIO/MiTemaDiscord
+ * @website https://github.com/TU_USUARIO/MiTemaDiscord
+ */
 
+@import url("https://raw.githubusercontent.com/TU_USUARIO/MiTemaDiscord/main/source.css");
